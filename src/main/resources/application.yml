@@ -1,0 +1,12 @@
+#spring:
+#  datasource:
+#    username: shiva
+#    password: data123456
+#    url: jdbc:mysql://localhost:3386/mydb
+#    driver-class-name: com.mysql.cj.jdbc.Driver
+#
+#  jpa:
+#    show-sql: true
+#    hibernate:
+#      ddl-auto: update
+#    properties.hibernate.dialect: org.hibernate.dialect.MysQLsDialect
