@@ -15,6 +15,7 @@ import javax.persistence.Table;
 
 @Entity
 @Table(name = "PRODUCT_TABLE")
+
 @NoArgsConstructor
 public class Product {
     @Id
@@ -24,6 +25,4 @@ public class Product {
     private int quantity;
     private double price;
 
-//    public Product() {
-//    }
 }
