@@ -79,6 +79,10 @@
 							<artifactId>lombok</artifactId>
 						</exclude>
 					</excludes>
+					<!--suppress UnresolvedMavenProperty -->
+<!--					<image>-->
+<!--						shivakant5875${project.artifactId}-->
+<!--					</image>-->
 				</configuration>
 			</plugin>
 		</plugins>
